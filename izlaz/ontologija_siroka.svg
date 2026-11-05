@@ -1,0 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="1464" viewBox="0 0 2400 1464" font-family="'DejaVu Sans', 'Segoe UI', Arial, sans-serif"><defs><marker id="p" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#2F5FC4"/></marker><marker id="z" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#2E7D32"/></marker><marker id="c" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#1A1A1A"/></marker></defs><rect width="2400" height="1464" fill="#FFFFFF"/><text x="1200" y="46" text-anchor="middle" font-size="32" font-weight="700" fill="#1A1A1A">Библиотека у Википодацима: класе, везе међу класама и својства</text>
+<rect x="320" y="84" width="560" height="90" rx="8" fill="#EEEEEE" stroke="#808080" stroke-width="2"/>
+<text x="600" y="127" text-anchor="middle" font-size="26" font-weight="700" fill="#1A1A1A">Q178706</text>
+<text x="600" y="154" text-anchor="middle" font-size="23" font-weight="700" fill="#1A1A1A">установа</text>
+<rect x="920" y="84" width="560" height="90" rx="8" fill="#EEEEEE" stroke="#808080" stroke-width="2"/>
+<text x="1200" y="127" text-anchor="middle" font-size="26" font-weight="700" fill="#1A1A1A">Q141507421</text>
+<text x="1200" y="154" text-anchor="middle" font-size="23" font-weight="700" fill="#1A1A1A">културна организација</text>
+<rect x="1520" y="84" width="560" height="90" rx="8" fill="#EEEEEE" stroke="#808080" stroke-width="2"/>
+<text x="1800" y="127" text-anchor="middle" font-size="26" font-weight="700" fill="#1A1A1A">Q58326331</text>
+<text x="1800" y="154" text-anchor="middle" font-size="23" font-weight="700" fill="#1A1A1A">пружалац информационих услуга</text>
+<rect x="680" y="228" width="560" height="90" rx="8" fill="#FBE5D0" stroke="#C06A1E" stroke-width="2"/>
+<text x="960" y="271" text-anchor="middle" font-size="26" font-weight="700" fill="#1A1A1A">Q3152824</text>
+<text x="960" y="298" text-anchor="middle" font-size="23" font-weight="700" fill="#1A1A1A">установа културе</text>
+<rect x="680" y="372" width="560" height="376" rx="8" fill="#FBE5D0" stroke="#C06A1E" stroke-width="2"/>
+<text x="960" y="415" text-anchor="middle" font-size="26" font-weight="700" fill="#1A1A1A">Q7075</text>
+<text x="960" y="442" text-anchor="middle" font-size="23" font-weight="700" fill="#1A1A1A">библиотека</text>
+<text x="960" y="464" text-anchor="middle" font-size="19" fill="#333333">P31 (је)</text>
+<text x="960" y="486" text-anchor="middle" font-size="19" fill="#333333">P17 (држава)</text>
+<text x="960" y="508" text-anchor="middle" font-size="19" fill="#333333">P131 (управно-терит. јединица)</text>
+<text x="960" y="530" text-anchor="middle" font-size="19" fill="#333333">P571 (настанак)</text>
+<text x="960" y="552" text-anchor="middle" font-size="19" fill="#333333">P6375 (адреса)</text>
+<text x="960" y="574" text-anchor="middle" font-size="19" fill="#333333">P856 (званични веб-сајт)</text>
+<text x="960" y="596" text-anchor="middle" font-size="19" fill="#333333">P18 (слика)</text>
+<text x="960" y="618" text-anchor="middle" font-size="19" fill="#333333">P625 (географске координате)</text>
+<text x="960" y="640" text-anchor="middle" font-size="19" fill="#333333">P281 (поштански број)</text>
+<text x="960" y="662" text-anchor="middle" font-size="19" fill="#333333">P276 (локација)</text>
+<text x="960" y="684" text-anchor="middle" font-size="19" fill="#333333">P1329 (телефонски број)</text>
+<text x="960" y="706" text-anchor="middle" font-size="19" fill="#333333">P361 (је део)</text>
+<text x="960" y="728" text-anchor="middle" font-size="19" fill="#333333">P1436 (величина фонда)</text>
+<rect x="80" y="442" width="480" height="85" rx="8" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="2"/>
+<text x="320" y="483" text-anchor="middle" font-size="22" font-weight="700" fill="#1A1A1A">установа — ставка</text>
+<text x="320" y="507" text-anchor="middle" font-size="22" font-weight="700" fill="#1A1A1A">на Википодацима</text>
+<text x="320" y="553" text-anchor="middle" font-size="18" fill="#666666">(иста установа може носити више класа)</text>
+<rect x="1500" y="372" width="440" height="87" rx="8" fill="#EEEEEE" stroke="#808080" stroke-width="2"/>
+<text x="1720" y="413" text-anchor="middle" font-size="24" font-weight="700" fill="#1A1A1A">Q6256</text>
+<text x="1720" y="439" text-anchor="middle" font-size="21" font-weight="700" fill="#1A1A1A">држава</text>
+<rect x="1500" y="473" width="440" height="87" rx="8" fill="#EEEEEE" stroke="#808080" stroke-width="2"/>
+<text x="1720" y="514" text-anchor="middle" font-size="24" font-weight="700" fill="#1A1A1A">Q56061</text>
+<text x="1720" y="540" text-anchor="middle" font-size="21" font-weight="700" fill="#1A1A1A">управно-терит. јединица</text>
+<rect x="1500" y="574" width="440" height="87" rx="8" fill="#EEEEEE" stroke="#808080" stroke-width="2"/>
+<text x="1720" y="615" text-anchor="middle" font-size="24" font-weight="700" fill="#1A1A1A">Q43229</text>
+<text x="1720" y="641" text-anchor="middle" font-size="21" font-weight="700" fill="#1A1A1A">организација</text>
+<rect x="1500" y="675" width="440" height="87" rx="8" fill="#EEEEEE" stroke="#808080" stroke-width="2"/>
+<text x="1720" y="716" text-anchor="middle" font-size="24" font-weight="700" fill="#1A1A1A">Q5</text>
+<text x="1720" y="742" text-anchor="middle" font-size="21" font-weight="700" fill="#1A1A1A">човек</text>
+<rect x="1500" y="776" width="440" height="87" rx="8" fill="#FBE5D0" stroke="#C06A1E" stroke-width="2"/>
+<text x="1720" y="817" text-anchor="middle" font-size="24" font-weight="700" fill="#1A1A1A">Q210272</text>
+<text x="1720" y="842" text-anchor="middle" font-size="21" font-weight="700" fill="#1A1A1A">културна баштина</text>
+<rect x="1980" y="372" width="400" height="259" rx="8" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="1.6"/>
+<text x="2180" y="412" text-anchor="middle" font-size="21" font-weight="700" fill="#1A1A1A">Спољашњи идентификатори</text>
+<text x="2180" y="436" text-anchor="middle" font-size="21" font-weight="700" fill="#1A1A1A">уписани на истим установама</text>
+<text x="2180" y="457" text-anchor="middle" font-size="19" fill="#333333">P214 (VIAF)</text>
+<text x="2180" y="479" text-anchor="middle" font-size="19" fill="#333333">P213 (ISNI)</text>
+<text x="2180" y="501" text-anchor="middle" font-size="19" fill="#333333">P244 (Конгресна библиотека)</text>
+<text x="2180" y="523" text-anchor="middle" font-size="19" fill="#333333">P691 (Нар. библиотека Чешке)</text>
+<text x="2180" y="545" text-anchor="middle" font-size="19" fill="#333333">P268 (Нац. библиотека Француске)</text>
+<text x="2180" y="567" text-anchor="middle" font-size="19" fill="#333333">P227 (GND)</text>
+<text x="2180" y="589" text-anchor="middle" font-size="19" fill="#333333">P6782 (ROR)</text>
+<text x="2180" y="611" text-anchor="middle" font-size="19" fill="#333333">P2427 (GRID)</text>
+<text x="31" y="942" text-anchor="start" font-size="24" font-weight="700" fill="#444444">Поткласе (P279)</text>
+<rect x="31" y="972" width="450" height="108" rx="8" fill="#FBE5D0" stroke="#C06A1E" stroke-width="2"/>
+<text x="256" y="1014" text-anchor="middle" font-size="24" font-weight="700" fill="#1A1A1A">Q28564</text>
+<text x="256" y="1039" text-anchor="middle" font-size="21" font-weight="700" fill="#1A1A1A">јавна библиотека</text>
+<text x="256" y="1060" text-anchor="middle" font-size="18" fill="#333333">P571 (настанак), P6375 (адреса)</text>
+<rect x="31" y="1126" width="450" height="87" rx="8" fill="#FBE5D0" stroke="#C06A1E" stroke-width="2"/>
+<text x="256" y="1168" text-anchor="middle" font-size="24" font-weight="700" fill="#1A1A1A">Q2326815</text>
+<text x="256" y="1193" text-anchor="middle" font-size="21" font-weight="700" fill="#1A1A1A">општинска библиотека</text>
+<rect x="31" y="1259" width="450" height="87" rx="8" fill="#FBE5D0" stroke="#C06A1E" stroke-width="2"/>
+<text x="256" y="1300" text-anchor="middle" font-size="24" font-weight="700" fill="#1A1A1A">Q114617264</text>
+<text x="256" y="1326" text-anchor="middle" font-size="21" font-weight="700" fill="#1A1A1A">градска библиотека</text>
+<rect x="503" y="972" width="450" height="87" rx="8" fill="#EEEEEE" stroke="#808080" stroke-width="2"/>
+<text x="728" y="1014" text-anchor="middle" font-size="24" font-weight="700" fill="#1A1A1A">Q1438040</text>
+<text x="728" y="1039" text-anchor="middle" font-size="21" font-weight="700" fill="#1A1A1A">истраживачка библиотека</text>
+<rect x="503" y="1126" width="450" height="87" rx="8" fill="#FBE5D0" stroke="#C06A1E" stroke-width="2"/>
+<text x="728" y="1168" text-anchor="middle" font-size="24" font-weight="700" fill="#1A1A1A">Q856234</text>
+<text x="728" y="1193" text-anchor="middle" font-size="21" font-weight="700" fill="#1A1A1A">академска библиотека</text>
+<rect x="503" y="1259" width="450" height="87" rx="8" fill="#FBE5D0" stroke="#C06A1E" stroke-width="2"/>
+<text x="728" y="1300" text-anchor="middle" font-size="24" font-weight="700" fill="#1A1A1A">Q1622062</text>
+<text x="728" y="1326" text-anchor="middle" font-size="21" font-weight="700" fill="#1A1A1A">универзитетска библиотека</text>
+<rect x="975" y="972" width="450" height="87" rx="8" fill="#EEEEEE" stroke="#808080" stroke-width="2"/>
+<text x="1200" y="1014" text-anchor="middle" font-size="24" font-weight="700" fill="#1A1A1A">Q2586205</text>
+<text x="1200" y="1039" text-anchor="middle" font-size="21" font-weight="700" fill="#1A1A1A">научна библиотека</text>
+<rect x="975" y="1126" width="450" height="87" rx="8" fill="#FBE5D0" stroke="#C06A1E" stroke-width="2"/>
+<text x="1200" y="1168" text-anchor="middle" font-size="24" font-weight="700" fill="#1A1A1A">Q121306790</text>
+<text x="1200" y="1193" text-anchor="middle" font-size="21" font-weight="700" fill="#1A1A1A">математичка библиотека</text>
+<rect x="1447" y="972" width="450" height="87" rx="8" fill="#EEEEEE" stroke="#808080" stroke-width="2"/>
+<text x="1672" y="1014" text-anchor="middle" font-size="24" font-weight="700" fill="#1A1A1A">Q65768782</text>
+<text x="1672" y="1039" text-anchor="middle" font-size="21" font-weight="700" fill="#1A1A1A">библиотека државног органа</text>
+<rect x="1447" y="1126" width="450" height="87" rx="8" fill="#FBE5D0" stroke="#C06A1E" stroke-width="2"/>
+<text x="1672" y="1168" text-anchor="middle" font-size="24" font-weight="700" fill="#1A1A1A">Q22806</text>
+<text x="1672" y="1193" text-anchor="middle" font-size="21" font-weight="700" fill="#1A1A1A">национална библиотека</text>
+<rect x="1919" y="972" width="450" height="87" rx="8" fill="#EEEEEE" stroke="#808080" stroke-width="2"/>
+<text x="2144" y="1014" text-anchor="middle" font-size="24" font-weight="700" fill="#1A1A1A">Q327333</text>
+<text x="2144" y="1039" text-anchor="middle" font-size="21" font-weight="700" fill="#1A1A1A">јавна агенција</text>
+<line x1="835" y1="223" x2="725" y2="179" stroke="#2F5FC4" stroke-width="2.3" marker-end="url(#p)"/>
+<line x1="1043" y1="223" x2="1117" y2="179" stroke="#2F5FC4" stroke-width="2.3" marker-end="url(#p)"/>
+<line x1="960" y1="367" x2="960" y2="323" stroke="#2F5FC4" stroke-width="2.3" marker-end="url(#p)"/>
+<line x1="1245" y1="414" x2="1702" y2="179" stroke="#2F5FC4" stroke-width="2.3" marker-end="url(#p)"/>
+<line x1="345" y1="967" x2="675" y2="749" stroke="#2F5FC4" stroke-width="2.3" marker-end="url(#p)"/>
+<line x1="753" y1="967" x2="862" y2="753" stroke="#2F5FC4" stroke-width="2.3" stroke-dasharray="9 7" marker-end="url(#p)"/>
+<line x1="1175" y1="967" x2="1062" y2="753" stroke="#2F5FC4" stroke-width="2.3" stroke-dasharray="9 7" marker-end="url(#p)"/>
+<line x1="1596" y1="967" x2="1245" y2="742" stroke="#2F5FC4" stroke-width="2.3" stroke-dasharray="9 7" marker-end="url(#p)"/>
+<line x1="256" y1="1121" x2="256" y2="1085" stroke="#2F5FC4" stroke-width="2.3" marker-end="url(#p)"/>
+<line x1="256" y1="1254" x2="256" y2="1218" stroke="#2F5FC4" stroke-width="2.3" marker-end="url(#p)"/>
+<line x1="728" y1="1121" x2="728" y2="1064" stroke="#2F5FC4" stroke-width="2.3" marker-end="url(#p)"/>
+<line x1="728" y1="1254" x2="728" y2="1218" stroke="#2F5FC4" stroke-width="2.3" marker-end="url(#p)"/>
+<line x1="1200" y1="1121" x2="1200" y2="1064" stroke="#2F5FC4" stroke-width="2.3" marker-end="url(#p)"/>
+<line x1="1672" y1="1121" x2="1672" y2="1064" stroke="#2F5FC4" stroke-width="2.3" marker-end="url(#p)"/>
+<line x1="1820" y1="1121" x2="1996" y2="1064" stroke="#2F5FC4" stroke-width="2.3" marker-end="url(#p)"/>
+<line x1="565" y1="514" x2="675" y2="526" stroke="#1A1A1A" stroke-width="2.3" marker-end="url(#c)"/>
+<text x="620" y="548" text-anchor="middle" font-size="20" font-weight="700" fill="#1A1A1A">P31</text>
+<line x1="1240" y1="416" x2="1495" y2="416" stroke="#2E7D32" stroke-width="2.3" stroke-dasharray="9 7" marker-end="url(#z)"/>
+<text x="1370" y="407" text-anchor="middle" font-size="19" font-weight="700" fill="#2E7D32">P17</text>
+<line x1="1240" y1="516" x2="1495" y2="516" stroke="#2E7D32" stroke-width="2.3" stroke-dasharray="9 7" marker-end="url(#z)"/>
+<text x="1370" y="508" text-anchor="middle" font-size="19" font-weight="700" fill="#2E7D32">P131</text>
+<line x1="1240" y1="617" x2="1495" y2="617" stroke="#2E7D32" stroke-width="2.3" stroke-dasharray="9 7" marker-end="url(#z)"/>
+<text x="1370" y="608" text-anchor="middle" font-size="19" font-weight="700" fill="#2E7D32">P361</text>
+<line x1="1240" y1="718" x2="1495" y2="718" stroke="#2E7D32" stroke-width="2.3" stroke-dasharray="9 7" marker-end="url(#z)"/>
+<text x="1370" y="709" text-anchor="middle" font-size="19" font-weight="700" fill="#2E7D32">P1037</text>
+<line x1="1240" y1="724" x2="1495" y2="819" stroke="#2E7D32" stroke-width="2.3" stroke-dasharray="9 7" marker-end="url(#z)"/>
+<text x="1370" y="762" text-anchor="middle" font-size="19" font-weight="700" fill="#2E7D32">P1435</text>
+<rect x="597" y="1383" width="32" height="24" rx="4" fill="#FBE5D0" stroke="#C06A1E" stroke-width="2"/>
+<text x="661" y="1402" text-anchor="start" font-size="21" fill="#333333">класа са установама из Србије</text>
+<rect x="1074" y="1383" width="32" height="24" rx="4" fill="#EEEEEE" stroke="#808080" stroke-width="2"/>
+<text x="1138" y="1402" text-anchor="start" font-size="21" fill="#333333">општа класа</text>
+<rect x="1334" y="1383" width="32" height="24" rx="4" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="2"/>
+<text x="1398" y="1402" text-anchor="start" font-size="21" fill="#333333">ставка — установа на Википодацима</text>
+<line x1="640" y1="1432" x2="688" y2="1432" stroke="#2F5FC4" stroke-width="2.5" marker-end="url(#p)"/>
+<text x="704" y="1440" text-anchor="start" font-size="20" fill="#333333">P279 — поткласа</text>
+<line x1="944" y1="1432" x2="992" y2="1432" stroke="#2F5FC4" stroke-width="2.5" stroke-dasharray="9 7" marker-end="url(#p)"/>
+<text x="1008" y="1440" text-anchor="start" font-size="20" fill="#333333">P279* — поткласа посредно</text>
+<line x1="1366" y1="1432" x2="1414" y2="1432" stroke="#2E7D32" stroke-width="2.5" stroke-dasharray="9 7" marker-end="url(#z)"/>
+<text x="1430" y="1440" text-anchor="start" font-size="20" fill="#333333">својство које повезује класе</text></svg>

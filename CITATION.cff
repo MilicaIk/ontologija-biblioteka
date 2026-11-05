@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: Онтологија библиотека у Википодацима
+message: Ако користите ове податке или слику, наведите их на следећи начин.
+type: dataset
+authors:
+  - family-names: Иконић Нешић
+    given-names: Милица
+    affiliation: Филолошки факултет, Универзитет у Београду
+  - family-names: Стошић
+    given-names: Анђела
+  - family-names: Рујевић
+    given-names: Биљана
+version: 1.0.0
+date-released: 2026-11-05
+license: CC-BY-4.0
+keywords:
+  - Википодаци
+  - онтологија
+  - библиотекарство
+  - повезани подаци
